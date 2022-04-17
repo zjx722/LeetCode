@@ -4,7 +4,6 @@ class Solution:
             return -1
         
         total = 0
-        res = 0
         start = 0
         
         for i in range(len(gas)):
